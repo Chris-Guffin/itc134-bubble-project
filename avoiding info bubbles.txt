@@ -35,8 +35,8 @@ avoiding an information bubble, but is very effective.
 
 
 
-/****************************************************************
+/*****************************************************************
 
 Let me know if this is okay. Don't be afraid to msg me on Slack with any issues, thoughts, or questions.
 
-/****************************************************************
+/*****************************************************************
