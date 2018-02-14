@@ -1,0 +1,28 @@
+Technical techniques for avoiding an information bubble
+
+1) Clear your search history on Google.
+
+2) Delete and turn off cookies on your browser.
+
+3) Turn off targeted ads in your browser.
+
+4) Keep social media data private, and hide your birthday.
+	(For example, in Privacy Settings & Tools on Facebook.)
+
+5) Use an 'incognito'/'anonymous' browser.
+
+sources:
+http://guides.library.illinois.edu/c.php?g=348478&p=2347795
+https://searchenginewatch.com/2017/08/18/how-to-escape-googles-filter-bubble/
+
+
+
+
+/************************
+
+Let me know if this is too bare bones. I could add more descritption(similar to #4)to 
+the steps.
+Or i could add non-technical techniques as well. ex, Getting news 
+from sources w/ varied bias.
+
+/************************
